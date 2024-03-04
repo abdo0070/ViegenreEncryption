@@ -1,0 +1,14 @@
+C:\Users\Abdalla\source\repos\vigenereKey\bin\Debug\net8.0\vigenereKey.exe
+C:\Users\Abdalla\source\repos\vigenereKey\bin\Debug\net8.0\vigenereKey.deps.json
+C:\Users\Abdalla\source\repos\vigenereKey\bin\Debug\net8.0\vigenereKey.runtimeconfig.json
+C:\Users\Abdalla\source\repos\vigenereKey\bin\Debug\net8.0\vigenereKey.dll
+C:\Users\Abdalla\source\repos\vigenereKey\bin\Debug\net8.0\vigenereKey.pdb
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.AssemblyInfoInputs.cache
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.AssemblyInfo.cs
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.csproj.CoreCompileInputs.cache
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.dll
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\refint\vigenereKey.dll
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.pdb
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\vigenereKey.genruntimeconfig.cache
+C:\Users\Abdalla\source\repos\vigenereKey\obj\Debug\net8.0\ref\vigenereKey.dll
